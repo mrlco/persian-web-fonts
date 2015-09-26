@@ -1,0 +1,22 @@
+{
+  "name": "persian-web-fonts",
+  "version": "1.0.0",
+  "homepage": "https://github.com/mrlco/persian-web-fonts",
+  "authors": [
+    "mehrna <mehran.barzandeh@gmail.com>"
+  ],
+  "description": "A package of Persian (Farsi - RTL language) web fonts",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "persian web fonts"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
